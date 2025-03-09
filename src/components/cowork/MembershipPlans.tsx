@@ -16,32 +16,6 @@ const data = [
     link: "https://wa.me/5521990916839",
   },
   {
-    name: "5-day Plan",
-    price: "R$315",
-    description:
-      "Perfect for those needing flexibility and occasional use of the space.",
-    benefits: [
-      "Access to the space for 5 days during the month",
-      "Use of a shared table (non-fixed)",
-      "Access from Monday to Friday, 8:00 AM to 18:00 PM",
-      "Biometric entry",
-    ],
-    link: "https://wa.me/5521990916839",
-  },
-  {
-    name: "10-Day Plan",
-    price: "R$595",
-    description:
-      "A great choice for those who need a regular, but not daily, workspace.",
-    benefits: [
-      "Access to the space for 10 days during the month",
-      "Use of a shared table (non-fixed)",
-      "Access from Monday to Friday, 8:00 AM to 18:00 PM",
-      "Biometric entry",
-    ],
-    link: "https://wa.me/5521990916839",
-  },
-  {
     name: "Fixed Resident Desk",
     price: "R$1500",
     description:
